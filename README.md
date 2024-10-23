@@ -9,6 +9,11 @@ A simple notepad application built with **React.js** for quickly jotting down no
 - **React.js**: Built using React.js for dynamic and responsive interactions.
 - **No database**: The app does not store data permanently. All notes are saved temporarily and will be lost when the page is refreshed.
 
+## Screenshots
+![keeper app 1](https://github.com/user-attachments/assets/c6b2a39f-51b5-41b2-9bf2-e9bd3232f069)
+![keeper 2](https://github.com/user-attachments/assets/f2fcbe4a-5e0a-4e93-a5cb-0cca954274ed)
+
+
 ## Project Details
 
 - **Frontend**: React.js
