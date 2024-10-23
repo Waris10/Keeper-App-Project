@@ -18,7 +18,7 @@ A simple notepad application built with **React.js** for quickly jotting down no
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/keeper-app.git
+   git clone https://github.com/yourusername/keeper-app.git](https://github.com/Waris10/Keeper-App-Project.git
    ```
 
 2. Navigate to the project directory:
